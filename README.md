@@ -4,7 +4,7 @@
 It is ***phil*** here!
 
 ****
-![The coder](http://url/to/img.jpg "The coder")
+![The coder](img.jfif "The coder")
 ****
 
 ## Status
